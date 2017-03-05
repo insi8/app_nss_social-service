@@ -25,7 +25,7 @@ and open the template in the editor.
 		
 	</form>
         <?php
-        // put your code here
+        // put your code herewqaer
         ?>
     </body>
 </html>
